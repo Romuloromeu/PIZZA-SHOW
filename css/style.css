@@ -1,0 +1,52 @@
+.imagens img{
+    width:350px;
+    height:350px;
+}
+
+.slidess{
+    height:700px;
+}
+
+.slidess img{
+    height:700px;
+   
+}
+.menu{
+    background-color: bisque;
+}
+#menu, #menu2 ul{
+    list-style: none;
+}
+
+#rodape{
+    background-color:#FFE4C4;
+    padding:10px;
+    text-align: center;
+    
+}
+
+.rodape2{
+    display: inline-block;
+    width:400px;
+    padding:30px;
+    list-style: none;
+}
+
+.rodape2 img{
+    width:50px;
+    height:50px;
+    list-style: none;
+}
+
+#rodape3 hr{
+    border-color: #8B0000;
+}
+
+#rodape3 h3,h4{
+    padding:10px;
+}
+.sobre {
+    
+    display: flex;
+    align-items: center;
+}
